@@ -1,5 +1,5 @@
 {
-  "name": "fila-front",
+  "name": "queue_monitor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
